@@ -19,6 +19,10 @@
   stroke-width: 1.5px;
 }
 
+#apple-stock-chart-2 .line {
+  stroke: green;
+}
+
 .chart .overlay {
   fill: none;
   pointer-events: all;
